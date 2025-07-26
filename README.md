@@ -115,6 +115,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=waqas-ali203&show_icons=true&locale=en" alt="waqas-ali203 GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqas-ali203&" alt="GitHub Streak" />
-</p>
+
