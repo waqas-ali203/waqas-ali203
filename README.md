@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="66%" valign="top">
 
 - 🔭 I’m currently working on **MERN Stack Development**
 
