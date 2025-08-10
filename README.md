@@ -5,10 +5,12 @@
 
 <!-- LEFT SIDE -->
 <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center;">
-  <p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=waqas-ali203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
-  <img src="https://camo.githubusercontent.com/fbeaa3910f2e205c41946e7f4e643de9cf718529d532da05e815fd6e8b312507/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966" width="250" alt="Coding GIF" />
+  <p align="center">
+    <img src="https://camo.githubusercontent.com/fbeaa3910f2e205c41946e7f4e643de9cf718529d532da05e815fd6e8b312507/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966" width="250" alt="Coding GIF" />
+  </p>
 </div>
 
 <!-- RIGHT SIDE -->
