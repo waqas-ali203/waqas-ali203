@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=waqas-ali203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
   <p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="250" alt="Coding GIF" />
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="300" alt="Coding GIF" />
   </p>
 </div>
 
