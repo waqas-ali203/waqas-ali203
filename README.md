@@ -5,7 +5,7 @@
 
 <!-- LEFT SIDE -->
 <div style="flex: 1; min-width: 250px; max-width: 300px;">
-  <p align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=waqas-ali203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
   <p align="center">
