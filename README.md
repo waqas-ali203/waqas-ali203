@@ -9,7 +9,7 @@
 <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center;">
   
   <p style="margin-bottom: 10px;">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="320" style="border-radius: 10px; max-width: 100vh;" alt="Coding GIF" />
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coder GIF" style="width:100%; max-width:100%; display:block; margin:auto;">
   </p>
   
   <p style="margin-bottom: 20px;">
