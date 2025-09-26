@@ -6,7 +6,7 @@
 </div>
 
 
-<img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> <br>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=waqas-ali203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
