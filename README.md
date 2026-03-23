@@ -60,5 +60,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqas-ali203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="waqas-ali203" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqas-ali203&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="waqas-ali203" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqas-ali203&" alt="waqas-ali203" /></p>
