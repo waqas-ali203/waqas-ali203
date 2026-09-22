@@ -73,20 +73,6 @@ My current focus is on **MERN development, backend engineering, Generative AI, L
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqas-ali203&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=10B981&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqas-ali203&bg_color=0D1117&color=38BDF8&line=10B981&point=38BDF8&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
